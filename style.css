@@ -18,6 +18,8 @@ body{
 
 .logo_img{
     width: 350px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 li{
