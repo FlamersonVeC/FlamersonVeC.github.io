@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="card">
                             <div class="texts_left">
                                 <h3>${item.Nome}</h3>
-                                <p>${item.Descrição}</p>
+                                <p>${item.Descricao}</p>
                             </div>
                             <div class="buton_right">
                                 <a href="${item.Link}">Acessar</a>
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             </div>
                             <div class="texts_right">
                                 <h3>${item.Nome}</h3>
-                                <p>${item.Descrição}</p>
+                                <p>${item.Descricao}</p>
                             </div>
                         </div>                   
                     `;
